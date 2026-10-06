@@ -17,6 +17,30 @@
 
 ## Como executar
 
+cd C:
+
+Execute o sistema:
+python sistema_chamada.py
+
+Se o comando python não funcionar no Windows, use:
+py sistema_chamada.py
+
+Como rodar os testes:
+python test_ordenacao.py
+
+ou:
+py test_ordenacao.py
+
+Configurar e-mail real:
+Dentro do sistema, clique em Configurar e-mail.
+
+Para Gmail, use:
+- Servidor SMTP: smtp.gmail.com
+- Porta: 587
+- Usuário / e-mail: seu e-mail do Gmail
+- Senha: senha de aplicativo do Gmail
+- Remetente: seu e-mail do Gmail
+
 ## Estrutura de dados usada
 
 Algoritmo de ordenação Quicksort 
