@@ -1,5 +1,7 @@
 # CHAMDA INTELIGENTE
 
+![Texto Alternativo](https://raw.githubusercontent.com/eda2-2026/G23_Ordenacao_EDA2-2026.2/refs/heads/main/assets/EDA2.png?token=GHSAT0AAAAAAEFR35JN42INPW4RY7T4EBFM2WFPYOQ)
+
  ---
 
  ## Aluno
