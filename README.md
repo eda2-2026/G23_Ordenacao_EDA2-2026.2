@@ -10,7 +10,7 @@
 ## Sobre  
 **Classificação por Risco:** Utiliza o algoritmo de ordenação Quicksort para agrupar e ordenar os alunos de acordo com a faixa de risco de reprovação.
 
-**Sistema de Notificações:** Permite o envio automático (ou manual) de alertas e notificações para os estudantes identificados com alto risco de reprovação, possibilitando intervenções pedagógicas precoces.
+**Sistema de Notificações:** Permite o envio automático (ou manual) de alertas e notificações para os estudantes identificados com alto risco de reprovação.
 
 > [!IMPORTANT]
 > Nota: Para fins de teste e demonstração do sistema, foram utilizados dados fictícios (nomes, notas, frequências e endereços de e-mail).
